@@ -101,7 +101,7 @@ li {
     font-size: 27px;
     border: none;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
     .container {
         width: 90%; /* Reduz a largura do container */
       margin-left: 20px;
@@ -118,7 +118,7 @@ li {
     }
 
     .numeros {
-        width: 80px; /* Reduz a largura dos botões de números */
+        width: 63px; /* Reduz a largura dos botões de números */
         height: 6vh; /* Reduz a altura dos botões de números */
         font-size: 20px; /* Reduz o tamanho da fonte dos botões de números */
     position: relative;
@@ -132,7 +132,7 @@ li {
         height: 6vh; /* Reduz a altura dos botões de reset e igual */
         font-size: 20px; /* Reduz o tamanho da fonte dos botões de reset e igual */
          /* Ajusta a margem superior dos botões de reset e igual */
-         margin-top: -3px;
+       
     }
 
     #del {
