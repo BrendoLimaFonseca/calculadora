@@ -118,7 +118,7 @@ li {
     }
 
     .numeros {
-        width: 63px; /* Reduz a largura dos botões de números */
+        width: 15vw; /* Reduz a largura dos botões de números */
         height: 6vh; /* Reduz a altura dos botões de números */
         font-size: 20px; /* Reduz o tamanho da fonte dos botões de números */
     position: relative;
@@ -128,7 +128,7 @@ li {
     }
 
     .reset, .resultado {
-        width: 45%; /* Reduz a largura dos botões de reset e igual */
+        width: 34vw; /* Reduz a largura dos botões de reset e igual */
         height: 6vh; /* Reduz a altura dos botões de reset e igual */
         font-size: 20px; /* Reduz o tamanho da fonte dos botões de reset e igual */
          /* Ajusta a margem superior dos botões de reset e igual */
@@ -136,7 +136,7 @@ li {
     }
 
     #del {
-        width: 80px; /* Reduz a largura do botão de delete */
+        width: 15vw; /* Reduz a largura do botão de delete */
         height: 6vh; /* Reduz a altura do botão de delete */
         font-size: 20px; /* Reduz o tamanho da fonte do botão de delete */
         position: relative;
